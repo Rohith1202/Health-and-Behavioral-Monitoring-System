@@ -17,7 +17,7 @@ The system is designed to improve neonatal outcomes by empowering healthcare pro
 - Provides feedback on successful registration and redirects to the login page.
 
 ➔ **The Sign Up page initiates user onboarding, ensuring authorized access to HBMS services.**
-![Screenshot (205)](https://github.com/user-attachments/assets/429cdcf6-2bc4-4f2b-9c14-91a71cd5289c)
+![image](https://github.com/user-attachments/assets/510f6b6b-263b-4e1d-8207-2980307a34d7)
 
 
 ---
@@ -31,7 +31,8 @@ The system is designed to improve neonatal outcomes by empowering healthcare pro
 - Provides links to reset password if users forget their login credentials.
 
 ➔ **The Login page acts as a secure gateway for users to access the monitoring system.**
-![image](https://github.com/user-attachments/assets/706ed14d-f847-4f0a-bfca-84bf33b97f1e)
+![image](https://github.com/user-attachments/assets/754bf329-fd51-4fa7-8af7-4d606f54c43a)
+
 
 
 ---
@@ -45,7 +46,8 @@ The system is designed to improve neonatal outcomes by empowering healthcare pro
 - Notifies users about successful password updates for transparency.
 
 ➔ **The Change Password page strengthens user account protection and encourages regular security updates.**
-![Screenshot (206)](https://github.com/user-attachments/assets/4ce746eb-0301-4bc3-8613-3f81c91a4663)
+![image](https://github.com/user-attachments/assets/58bc5768-70e6-489b-b525-c7a102494f50)
+
 
 ---
 
@@ -70,7 +72,7 @@ The system is designed to improve neonatal outcomes by empowering healthcare pro
 - Maintains a clean, user-friendly design for easy information access.
 
 ➔ **The Dashboard offers a comprehensive overview, making system management efficient and intuitive.**
-![image](https://github.com/user-attachments/assets/d0a76e10-3aa1-48c1-a6dc-f38379cd9a4e)
+![image](https://github.com/user-attachments/assets/75365b32-5903-4b20-8386-bd6aa3f9d877)
 
 
 ---
@@ -85,7 +87,7 @@ The system is designed to improve neonatal outcomes by empowering healthcare pro
 - Enables healthcare providers to act quickly based on live health data.
 
 ➔ **The Live Monitoring page provides real-time, life-saving insights for neonatal healthcare management.**
-![image](https://github.com/user-attachments/assets/640010fe-e917-469c-a481-65184be4dba7)
+![image](https://github.com/user-attachments/assets/e14eaf89-f9fb-45fb-b205-80040b3984a8)
 
 
 ---
@@ -99,7 +101,7 @@ The system is designed to improve neonatal outcomes by empowering healthcare pro
 - Allows healthcare staff to make data-driven decisions and plan treatments proactively.
 
 ➔ **The Analytics page transforms raw data into meaningful insights for smarter neonatal care.**
-![image](https://github.com/user-attachments/assets/e213c204-ed26-49b3-af6c-b118b5f86352)
+![image](https://github.com/user-attachments/assets/e1a7cb9a-3e1b-4dfb-af26-e196e529c7de)
 
 ---
 
@@ -112,7 +114,8 @@ The system is designed to improve neonatal outcomes by empowering healthcare pro
 - Supports compliance with medical record-keeping standards.
 
 ➔ **The Reports page ensures easy documentation and sharing of vital health information.**
-![image](https://github.com/user-attachments/assets/afd4dc71-c0e1-4e8e-8009-f3c8a28f23bc)
+![image](https://github.com/user-attachments/assets/04f14203-0956-4f8a-a20d-b1d5c7aa8b00)
+
 
 ---
 
@@ -125,7 +128,8 @@ The system is designed to improve neonatal outcomes by empowering healthcare pro
 - Sends appointment confirmation and reminder notifications to users.
 
 ➔ **The Doctor Appointment page ensures timely medical reviews and organized healthcare delivery.**
-![image](https://github.com/user-attachments/assets/e58b952f-f0e1-4110-8884-d77a50461306)
+![image](https://github.com/user-attachments/assets/52d81c97-3045-427d-bfaf-f2f6f0638d6a)
+
 
 ---
 
@@ -138,7 +142,8 @@ The system is designed to improve neonatal outcomes by empowering healthcare pro
 - Helps new parents and caregivers with quick advice and system guidance.
 
 ➔ **The AI Chat Assistance page offers instant help, making the system more user-friendly and supportive.**
-![image](https://github.com/user-attachments/assets/ba3ca531-aa64-42db-9246-ab825512a4b5)
+![image](https://github.com/user-attachments/assets/d5fd30c0-a239-4167-9f22-09a52bbc3d37)
+
 
 ---
 
@@ -151,7 +156,7 @@ The system is designed to improve neonatal outcomes by empowering healthcare pro
 - Continuously updated with trusted medical information.
 
 ➔ **The Health Education page empowers users with knowledge for better infant care.**
-![image](https://github.com/user-attachments/assets/9e0d5ab6-e639-413a-9688-aa3455c45f34)
+![image](https://github.com/user-attachments/assets/15fb8a52-413b-401f-8017-7daf4dbedeb4)
 
 ---
 
@@ -164,7 +169,7 @@ The system is designed to improve neonatal outcomes by empowering healthcare pro
 - Ensures only authorized personnel access sensitive health data.
 
 ➔ **The User Management page strengthens system security and organized access control.**
-![image](https://github.com/user-attachments/assets/ff855eba-1217-4905-87af-b962b8c0abcf)
+![image](https://github.com/user-attachments/assets/25d59fa3-cae6-4c1b-b2a8-a07b7b2ba08f)
 
 ---
 
@@ -177,7 +182,7 @@ The system is designed to improve neonatal outcomes by empowering healthcare pro
 - Ensures reliable and continuous data collection from newborns.
 
 ➔ **The Sensor Management page guarantees system accuracy and high-quality monitoring.**
-![image](https://github.com/user-attachments/assets/4f5750c0-626e-4cb8-b013-5a20d00742ed)
+![image](https://github.com/user-attachments/assets/6e6be050-7721-4cac-a9c3-f6029605683d)
 
 ---
 
@@ -190,7 +195,8 @@ The system is designed to improve neonatal outcomes by empowering healthcare pro
 - Maintains a feedback log for analyzing user satisfaction trends.
 
 ➔ **The Feedback page drives system improvement through user engagement and insights.**
-![image](https://github.com/user-attachments/assets/919df602-bbfe-4a89-9d02-dc5bcc607996)
+![image](https://github.com/user-attachments/assets/04daa409-4a38-4e71-b7b2-4f275806db91)
+
 
 ---
 
@@ -203,7 +209,7 @@ The system is designed to improve neonatal outcomes by empowering healthcare pro
 - Helps healthcare providers react quickly to emergencies, minimizing risks.
 
 ➔ **The Notification page ensures timely awareness of critical health events for immediate medical action.**
-![image](https://github.com/user-attachments/assets/9faf4a9c-b644-43c7-a6c7-58824fdd9431)
+![image](https://github.com/user-attachments/assets/8aecd463-93da-4a4c-a8b1-ba94d578c1e0)
 
 
 ---
@@ -220,16 +226,15 @@ The system is designed to improve neonatal outcomes by empowering healthcare pro
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
-Hi, I’m **Anusha Pantala** — a passionate and driven **final-year B.Tech student** in **Computer Science and Engineering** with a specialization in **Data Science**.
+Hi, I’m **Rohith Boppana** — a passionate and driven **final-year B.Tech student** in **Computer Science and Engineering** with a specialization in **Artificial Intelligence & Machine Learning**.
 
 I'm deeply interested in building real-world tech solutions that combine data, intelligence, and intuitive design. My academic journey and hands-on projects reflect a strong foundation in both theory and practical application.
 
 ### 👇 My Core Interests
-- 🔍 Data Science & Analytics  
 - 🤖 Artificial Intelligence & Machine Learning  
-- 🌐 Full-Stack Web Development  
+- 🔍 Data Science & Analytics   
 - 📊 BI Dashboards & Predictive Modeling  
 - 💡 Problem-Solving with Scalable Technologies
 
@@ -241,8 +246,13 @@ I enjoy translating business needs and data insights into impactful software sol
 
 📫 **LinkedIn**  
 Let’s connect and grow professionally:  
-[linkedin.com/in/pantala-anusha](https://www.linkedin.com/in/pantala-anusha/)
+[linkedin.com/in/rohith-boppana-39ab57279](https://www.linkedin.com/in/rohith-boppana-39ab57279/)
 
 🌐 **Portfolio**  
 Explore my latest work, skills, and projects here:  
-[anusha-pantala.vercel.app](https://anusha-pantala.vercel.app)
+[rohith-boppana.vercel.app](https://rohith-boppana.vercel.app)
+---
+
+> 💡 _“Final-year student, forever learner — building the future, one project at a time.”_
+
+Feel free to explore my repositories and reach out for **collaborations**, **internships**, or to discuss **innovative ideas**!
