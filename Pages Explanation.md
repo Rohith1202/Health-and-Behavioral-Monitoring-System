@@ -251,7 +251,9 @@ Let’s connect and grow professionally:
 🌐 **Portfolio**  
 Explore my latest work, skills, and projects here:  
 [rohith-boppana.vercel.app](https://rohith-boppana.vercel.app)
+
 ---
+
 
 > 💡 _“Final-year student, forever learner — building the future, one project at a time.”_
 
