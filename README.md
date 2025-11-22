@@ -7,6 +7,119 @@ The system is designed to improve neonatal outcomes by empowering healthcare pro
 
 ---
 
+## 📌 Project Description
+
+HBMS collects key behavioural and physiological parameters such as heart rate, temperature, physical activity, and sleep duration.  
+These features are processed through a trained **Random Forest algorithm**, which classifies the user's current health condition and helps detect patterns that may require attention.
+
+The system integrates:
+
+- **Flask backend** for API handling, model execution, and server logic  
+- **HTML, CSS, JavaScript frontend** for a user-friendly interface  
+- **Firebase authentication & cloud storage** for secure login and data management  
+- **Google Gemini API chatbot** for interactive explanations and intelligent support  
+
+The application delivers real-time predictions, personalized insights, a secure user experience, and consistent storage of health records.
+
+---
+
+## 🎯 Key Features
+
+### **1. AI-Based Health Prediction**
+Uses a Random Forest machine learning model trained on structured behavioural and physiological inputs to generate:
+- Health condition classification  
+- Probability and confidence factors  
+- Data-driven explanations  
+- Feature-based interpretations  
+
+### **2. Flask Backend Architecture**
+The backend:
+- Loads and serves the ML model  
+- Manages API requests and user interactions  
+- Connects the frontend with Firebase and Gemini API  
+- Processes prediction requests securely and efficiently  
+
+### **3. Gemini Chatbot Integration**
+Gemini AI enhances the platform by:
+- Explaining model predictions in simple terms  
+- Answering user queries  
+- Guiding new users  
+- Offering personalized health-related suggestions  
+- Providing interactive Q&A support  
+
+### **4. Firebase Authentication**
+Ensures that:
+- Only authorized users can access the system  
+- Login and registration are securely handled  
+- User identity is validated through Firebase tokens  
+- Session management is safe and reliable  
+
+### **5. Firebase Cloud Firestore & Storage**
+Used to store:
+- User detection history  
+- Feedback  
+- Health logs  
+- Data snapshots  
+- Application metadata  
+
+This ensures a scalable, fast, and secure backend storage system.
+
+### **6. Responsive Frontend**
+The UI is built with:
+- **HTML** for layout  
+- **CSS** for styling  
+- **JavaScript** for communication with the backend  
+
+The frontend includes:
+- Login/Register pages  
+- Health input forms  
+- Prediction results display  
+- User history section  
+- Chatbot interface  
+
+---
+
+## 🧠 Machine Learning Algorithm Overview
+
+The HBMS prediction engine uses a **Random Forest model**, chosen because:
+- It is highly reliable for tabular health data  
+- Works well with nonlinear relationships  
+- Handles missing/noisy values  
+- Provides better generalization than single decision trees  
+- Offers feature importance for interpretability  
+
+The model is trained on a structured dataset, evaluated, saved, and deployed through the backend.
+
+---
+
+## 🏗 System Architecture
+
+The system follows a modular architecture:
+
+1. **User Interface (Frontend)**
+   - Collects user inputs  
+   - Displays predictions & responses  
+   - Hosts chatbot UI  
+
+2. **Flask Backend**
+   - Handles all logic  
+   - Loads ML model and performs inference  
+   - Verifies Firebase tokens  
+   - Sends/receives data from Gemini API  
+   - Manages communication between all components  
+
+3. **Firebase Services**
+   - Authentication for user access  
+   - Firestore for history & feedback  
+   - Storage for user-related data  
+
+4. **Gemini AI Chatbot**
+   - Provides interactive assistance  
+   - Explains results  
+   - Supports natural language queries  
+
+---
+
 ## 1. Sign Up Page
 
 - Offers a secure and simple user registration process.
